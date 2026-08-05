@@ -1,0 +1,16 @@
+numero05 = int(input('Digite um número inteiro: '))
+print()
+
+print(f'Tabuada do {numero05}')
+print()
+
+print(numero05 * 1)
+print(numero05 * 2)
+print(numero05 * 3)
+print(numero05 * 4)
+print(numero05 * 5)
+print(numero05 * 6)
+print(numero05 * 7)
+print(numero05 * 8)
+print(numero05 * 9)
+print(numero05 * 10)
